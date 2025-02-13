@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Keshab Thanet!
 
-<!--
-**keshabthanet/keshabthanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I'm a passionate .NET developer with a focus on building robust and scalable web applications. I specialize in:
+- **Frontend**: ASP.NET Core, HTML, CSS, JavaScript, React
+- **Backend**: .NET Core, C#, SQL Server, Entity Framework
+- **Cloud**: Azure, AWS
 
-Here are some ideas to get you started:
+🛠️ Currently working on:
+- Developing enterprise-level applications using .NET and Azure
+- Building RESTful APIs and microservices with .NET Core
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Always learning:
+- Exploring design patterns and software architecture
+- Improving my knowledge of cloud computing and DevOps with Azure
+
+🚀 Interested in collaborating on:
+- .NET Core / ASP.NET Core projects
+
+📬 You can reach me at: keshab.thanet0806@gmail.com
+
